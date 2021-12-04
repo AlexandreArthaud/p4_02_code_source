@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black  !important;
 }
 
 .container {
@@ -688,11 +688,13 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+
+    color: white;
 }
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: white;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -720,10 +722,6 @@ h3 {
     max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
-}
-
-h1 {
-    color: #333333!important;
 }
 
 h4 {
@@ -775,17 +773,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: white !important;
 }
 
 .ltc-white {
