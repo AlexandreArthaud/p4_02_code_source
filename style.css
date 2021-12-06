@@ -1023,6 +1023,15 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .social {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    footer ul li {
+        padding: 20px 0px 20px 0px;
+    }
 }
 
 @media (max-width: 400px) {
